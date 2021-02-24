@@ -23,7 +23,7 @@ customGreeting("Good morning", "Pouja", "fantastic", "Tuesday");
 
 This always works, and is perfectly adequate a lot of the time. However, for
 those times when our needs may be more complex, JavaScript provides several helpful
-tools for handling parameters and arguments that can make our code more flexible
+tools that can make handling of parameters and arguments more flexible
 and efficient: default values, the `rest` parameter and the `spread` operator.
 We will learn how to use all three in this lesson.
 
